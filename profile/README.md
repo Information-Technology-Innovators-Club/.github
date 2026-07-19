@@ -216,7 +216,7 @@ A huge thank-you to every member who has contributed code, design, content, or i
 
 <div align="center">
 
-[![Contributors](https://contrib.rocks/image?repo=Information-Technology-Innovators-Club/ITIC-Website)](https://github.com/Information-Technology-Innovators-Club/learning-resources/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Information-Technology-Innovators-Club/learning-resources)](https://github.com/Information-Technology-Innovators-Club/learning-resources/graphs/contributors)
 
 </div>
 
