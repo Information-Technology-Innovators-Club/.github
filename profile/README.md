@@ -222,13 +222,7 @@ A huge thank-you to every member who has contributed code, design, content, or i
 
 
 
-### 🥇 Featured Members
 
-| Rank | Contributor | Role | Contributions |
-|:---:|---|---|---|
-| 🥇 | *Add name* | *e.g. Club President* | *e.g. Led 5 major projects* |
-| 🥈 | *Add name* | *e.g. Lead Developer* | *e.g. 200+ commits* |
-| 🥉 | *Add name* | *e.g. Community Manager* | *e.g. Organized 3 hackathons* |
 
 ---
 
@@ -297,6 +291,5 @@ Chinhoyi University of Technology, Zimbabwe
 
 ⭐ If you like what we do, follow our organization and explore our projects!
 
-![Visitor Count](https://profile-counter.glitch.me/Information-Technology-Innovators-Club/count.svg)
 
 </div>
