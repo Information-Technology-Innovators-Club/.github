@@ -207,7 +207,6 @@ Members can specialize in:
 | 🏆 **Hackathons** | Competition Projects |
 | 🎯 **Workshops** | Club Workshop Materials |
 
-> 💡 *Replace the placeholders above with direct links once your repositories are live, e.g. `[ITIC Website](https://github.com/Information-Technology-Innovators-Club/website)`.*
 
 ---
 
@@ -221,7 +220,7 @@ A huge thank-you to every member who has contributed code, design, content, or i
 
 </div>
 
-> 💡 *Replace `Information-Technology-Innovators-Club/ITIC-Website` with your main repository's `org/repo` path. The image above updates automatically as people contribute — no manual editing needed. You can add one contrib.rocks widget per key repository.*
+
 
 ### 🥇 Featured Members
 
@@ -285,7 +284,6 @@ Chinhoyi University of Technology, Zimbabwe
 
 </div>
 
-> 💡 *Replace the `#` links above with your actual LinkedIn, X, Instagram, WhatsApp, and Discord URLs.*
 
 ---
 
